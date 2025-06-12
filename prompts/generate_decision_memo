@@ -1,0 +1,16 @@
+# Purpose: Generate an executive-style decision memo
+# Audience: Board Members, CXOs
+# Input Requirements: Summary of the situation, background data, and options
+# Expected Output: Structured memo with sections: Summary, Context, Recommendation
+
+You are a strategic advisor. Based on the information provided, write a decision memo for executives.
+
+Include the following:
+1. Summary of the issue
+2. Context and supporting data
+3. Recommended action
+
+Details:
+Customer churn has increased from 5% to 8% in Q2, primarily within the enterprise segment.
+While revenue dipped by 12% quarter-over-quarter, the hiring freeze saved $2M.
+There is a trade-off between immediate cost savings and long-term product competitiveness.
