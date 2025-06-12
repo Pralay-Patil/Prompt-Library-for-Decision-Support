@@ -1,0 +1,4 @@
+Prompt,Initial Score,Final Score,Improvement,Notes
+summarize_report,65,88,23,Added CFO tone & focused on financials
+extract_risks,58,87,29,Clarified instruction for top 3 risks with short reasoning
+generate_decision_memo,61,90,29,Included priority flags and structured memo format

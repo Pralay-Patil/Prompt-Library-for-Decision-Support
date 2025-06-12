@@ -1,0 +1,14 @@
+# Purpose: Generate an executive-style decision memo
+# Audience: Board Members, CXOs
+# Input Requirements: Summary of the situation, background data, and options
+# Expected Output: Structured memo with sections: Summary, Context, Recommendation
+
+You are a strategic advisor. Based on the information provided, write a decision memo for executives.
+
+Include the following:
+1. Summary of the issue
+2. Context and supporting data
+3. Recommended action
+
+Details:
+{input_summary}
