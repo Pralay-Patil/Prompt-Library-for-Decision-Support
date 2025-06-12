@@ -1,0 +1,13 @@
+# Purpose: Summarize internal business reports for executive review
+# Audience: CFO, Senior Executives
+# Input Requirements: Full report text (financial, operational, or strategic)
+# Expected Output: 3–5 sentence concise summary highlighting key metrics, red flags, and action items
+
+You are an executive assistant. Summarize the following report for the CFO.
+Focus on key metrics, red flags, and decisions needed.
+
+Report:
+Q2 revenue dropped 12% compared to Q1 due to underperformance in the APAC region.
+Customer churn increased from 5% to 8%, mostly in the enterprise segment.
+Hiring freeze saved $2M but slowed down new product development.
+Net promoter score declined from 70 to 60.
