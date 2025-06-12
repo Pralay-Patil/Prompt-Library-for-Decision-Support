@@ -1,0 +1,7 @@
+openai
+langchain
+python-dotenv
+jupyter
+pandas
+fastapi
+uvicorn
